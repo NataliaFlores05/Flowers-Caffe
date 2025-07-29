@@ -42,7 +42,7 @@ body{
 h1,h2{
     font-family: "Quicksand", sans-serif;
     font-optical-sizing: auto;
-    color: rgb(169, 108, 68);
+    color: rgb(255, 255, 255);
 }
 h2:hover{
     font-size: 25px;
@@ -53,4 +53,11 @@ a{
     font-optical-sizing: auto;
     color: rgb(169, 108, 68);
     text-decoration: none;
+}
+#div1{
+    background-color:rgb(169, 108, 68);
+    width: 180px;
+    align-items: center;
+    margin-left: 47px;
+    border-radius: 10px;
 }
